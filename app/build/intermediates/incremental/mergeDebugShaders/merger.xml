@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\ZYX\WORK\huaxue\code\pad\SkiingShowPad\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\ZYX\WORK\huaxue\code\pad\SkiingShowPad\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/debug/shaders"/></dataSet></merger>

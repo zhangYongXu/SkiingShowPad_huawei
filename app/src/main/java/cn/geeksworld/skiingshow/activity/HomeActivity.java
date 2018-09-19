@@ -7,6 +7,7 @@ import android.os.Handler;
 import android.os.PersistableBundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.TextView;
@@ -14,6 +15,7 @@ import android.widget.TextView;
 import cn.geeksworld.skiingshow.R;
 import cn.geeksworld.skiingshow.Tools.AppModelControlManager;
 import cn.geeksworld.skiingshow.Tools.BackMain;
+import cn.geeksworld.skiingshow.Tools.Tool;
 
 /**
  * Created by xhs on 2018/3/13.
@@ -40,6 +42,7 @@ public class HomeActivity extends AppCompatActivity {
         initNavigationView();
         //根据设置，判断是否在test模式下
         //AppModelControlManager.judgeAppControllTestMode(this);
+
     }
 
     //导航设置

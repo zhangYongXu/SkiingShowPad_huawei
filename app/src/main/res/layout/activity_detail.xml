@@ -229,6 +229,7 @@
                     android:layout_width="400dp"
                     android:layout_height="200dp"
                     android:src="@mipmap/activity_detail_logo"
+                    android:scaleType="fitEnd"
                     android:layout_alignParentBottom="true"
                     android:layout_alignParentRight="true"/>
             </RelativeLayout>
@@ -236,7 +237,7 @@
         <RelativeLayout
             android:id="@+id/otherLayout"
             android:layout_width="match_parent"
-            android:layout_height="50dp"
+            android:layout_height="19dp"
             android:layout_above="@+id/bottomBackLayout"
             android:layout_marginBottom="10dp">
             <ImageView
@@ -248,25 +249,26 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
-                android:scaleType="fitXY"
+                android:scaleType="fitCenter"
+                android:padding="3dp"
                 android:src="@mipmap/detail_arrow_up"/>
         </RelativeLayout>
         <RelativeLayout
             android:id="@+id/bottomBackLayout"
             android:layout_width="match_parent"
-            android:layout_height="@dimen/appBottomNavigationViewHeightXLarge"
+            android:layout_height="@dimen/appBottomNavigationViewHeight"
             android:layout_alignParentBottom="true"
             android:layout_alignParentLeft="true">
             <ImageView
                 android:layout_width="match_parent"
-                android:layout_height="@dimen/appBottomNavigationViewHeightXLarge"
+                android:layout_height="@dimen/appBottomNavigationViewHeight"
                 android:layout_alignParentBottom="true"
                 android:layout_marginLeft="0dp"
                 android:src="@mipmap/activity_bottom_back_bg"
                 android:scaleType="fitXY" />
             <ImageButton
-                android:layout_width="@dimen/appBottomNavigationViewHeightXLarge"
-                android:layout_height="@dimen/appBottomNavigationViewHeightXLarge"
+                android:layout_width="@dimen/appBottomNavigationViewHeight"
+                android:layout_height="@dimen/appBottomNavigationViewHeight"
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentBottom="true"
 
@@ -276,8 +278,8 @@
                 android:background="#00000000"/>
             <cn.geeksworld.skiingshow.views.LongTouchBtn
                 android:id="@+id/appControlBarBtn"
-                android:layout_width="@dimen/appBottomNavigationViewHeightXLarge"
-                android:layout_height="@dimen/appBottomNavigationViewHeightXLarge"
+                android:layout_width="@dimen/appBottomNavigationViewHeight"
+                android:layout_height="@dimen/appBottomNavigationViewHeight"
                 android:layout_alignParentRight="true"
                 android:layout_alignParentBottom="true"
                 android:background="#00000000"

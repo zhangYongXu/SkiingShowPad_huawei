@@ -1,178 +1,178 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:2:1-64:12
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:2:1-64:12
 	package
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:7:22-77
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:8:5-78
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:8:5-78
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:8:22-76
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:8:22-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:9:5-81
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:9:22-78
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:9:22-78
 application
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:11:5-62:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\55c308946004bd14c0be081418edaf5219e959d2\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\f62d5ae38182fd8344906e798308a6eb7da599e0\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jktd-wbr\.android\build-cache\c38e1272c697f5ba9a5b5206b8312934dee940c7\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\6fca25306be7a4a9bb0900daf40d86f82683c416\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\1f20bf8cf2c0ce1a7035be4ed59566c25b28c24f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\9cae2925b6e29243fdc279be106332b698658bc5\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\115565666ab612ac17bfc6c3cf9ec5381190e775\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\6223ab0de90fb959d04c5b01278cf79211113517\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\dc80ef052c53a6d34e990588a189c87077c31c9d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.14] C:\Users\jktd-wbr\.android\build-cache\07f4502be198fbc5331ad8b4fc10faf4936647ba\output\AndroidManifest.xml:11:5-20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:11:5-62:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/6488b4f8559bf594461d46ad508a7fd768122167/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/889935fdac1e8459a0bbe54a12bb5792734b5eb9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/GeekWorld/.android/build-cache/1d34bdb02d0d80ccc073a750efd27cd9bce3cfd0/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/484ecaf570500c6b52d2f63bef895d8b45f1d059/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/fc37ac91a6de0095346b21bd9fdcde69631fc61e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/8445e21859c59c38be471f5b8a46ab7e7f278f71/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/4e36884ef69b3f6c4aafc481e9c8b934a96ff544/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/1c676cc7980cf2f2e45d32ba67c18a2ed01f26a8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/f4ee3d9a2d7a60448370735e96f46d1cd1aff582/output/AndroidManifest.xml:29:5-20
+MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.14] /Users/GeekWorld/.android/build-cache/966687f3bd96a6336182391403d19c6994cbd6b0/output/AndroidManifest.xml:11:5-20
 	android:label
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:16:9-41
 	android:supportsRtl
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:18:9-35
 	android:hardwareAccelerated
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:12:9-44
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:12:9-44
 	android:roundIcon
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:17:9-54
 	android:allowBackup
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:15:9-43
 	android:largeHeap
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:13:9-33
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:13:9-33
 	android:theme
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:19:9-40
 receiver#cn.geeksworld.skiingshow.receiver.BootBroadcastReceiver
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:21:9-26:20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:21:9-26:20
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:21:19-65
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:21:19-65
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:22:13-25:29
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:22:13-25:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:23:17-79
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:23:17-79
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:23:25-76
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:23:25-76
 category#android.intent.category.HOME
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:24:17-72
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:24:17-72
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:24:27-70
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:24:27-70
 activity#cn.geeksworld.skiingshow.activity.MainActivity
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:30:9-36:20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:30:9-36:20
 	android:screenOrientation
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:30:57-93
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:30:57-93
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:30:19-56
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:30:19-56
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:31:13-35:29
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:34:17-77
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:34:27-74
 activity#cn.geeksworld.skiingshow.activity.HomeActivity
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:38:9-40:20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:38:9-40:20
 	android:screenOrientation
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:38:81-117
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:38:81-117
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:38:19-80
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:38:19-80
 activity#cn.geeksworld.skiingshow.activity.ListActivity
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:41:9-43:20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:41:9-43:20
 	android:screenOrientation
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:41:81-117
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:41:81-117
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:41:19-80
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:41:19-80
 activity#cn.geeksworld.skiingshow.activity.DetailActivity
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:44:9-46:20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:44:9-46:20
 	android:screenOrientation
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:44:83-119
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:44:83-119
 	android:configChanges
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:44:121-192
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:44:121-192
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:44:19-82
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:44:19-82
 activity#cn.geeksworld.skiingshow.activity.DetailActivity2
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:48:9-50:20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:48:9-50:20
 	android:screenOrientation
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:48:84-120
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:48:84-120
 	android:configChanges
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:48:121-192
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:48:121-192
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:48:19-83
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:48:19-83
 activity#cn.geeksworld.skiingshow.activity.MoreVideoActivity
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:52:9-54:20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:52:9-54:20
 	android:screenOrientation
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:52:86-122
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:52:86-122
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:52:19-85
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:52:19-85
 activity#cn.geeksworld.skiingshow.activity.MoreVideoPlayActivity
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:56:9-58:20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:56:9-58:20
 	android:configChanges
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:56:90-161
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:56:90-161
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:56:19-89
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:56:19-89
 activity#cn.geeksworld.skiingshow.activity.MoreVideoPlayActivityT
-ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:59:9-61:20
+ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:59:9-61:20
 	android:configChanges
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:59:91-162
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:59:91-162
 	android:name
-		ADDED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml:59:19-90
+		ADDED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml:59:19-90
 uses-sdk
-INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\55c308946004bd14c0be081418edaf5219e959d2\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\f62d5ae38182fd8344906e798308a6eb7da599e0\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jktd-wbr\.android\build-cache\c38e1272c697f5ba9a5b5206b8312934dee940c7\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.jude:rollviewpager:1.4.6] C:\Users\jktd-wbr\.android\build-cache\ff5155f9294d01c3a181934dd212e42dddbcdc66\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\6fca25306be7a4a9bb0900daf40d86f82683c416\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\1f20bf8cf2c0ce1a7035be4ed59566c25b28c24f\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\9cae2925b6e29243fdc279be106332b698658bc5\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\115565666ab612ac17bfc6c3cf9ec5381190e775\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\3a9990a832624ff80de23b70736923223e945a6c\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\6223ab0de90fb959d04c5b01278cf79211113517\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\dc80ef052c53a6d34e990588a189c87077c31c9d\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.14] C:\Users\jktd-wbr\.android\build-cache\07f4502be198fbc5331ad8b4fc10faf4936647ba\output\AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/6488b4f8559bf594461d46ad508a7fd768122167/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/889935fdac1e8459a0bbe54a12bb5792734b5eb9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/GeekWorld/.android/build-cache/1d34bdb02d0d80ccc073a750efd27cd9bce3cfd0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jude:rollviewpager:1.4.6] /Users/GeekWorld/.android/build-cache/74c98683185dfd603b093753469d0560c1482c92/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/484ecaf570500c6b52d2f63bef895d8b45f1d059/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/fc37ac91a6de0095346b21bd9fdcde69631fc61e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/8445e21859c59c38be471f5b8a46ab7e7f278f71/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/4e36884ef69b3f6c4aafc481e9c8b934a96ff544/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/9bc9a2b5b1dcb9d26bb752954c668eb11d085eac/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/1c676cc7980cf2f2e45d32ba67c18a2ed01f26a8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/f4ee3d9a2d7a60448370735e96f46d1cd1aff582/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.wseemann:FFmpegMediaMetadataRetriever:1.0.14] /Users/GeekWorld/.android/build-cache/966687f3bd96a6336182391403d19c6994cbd6b0/output/AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
-		INJECTED from E:\ZYX\WORK\huaxue\code\pad\HUAWEI\SkiingShowPad_huawei\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\55c308946004bd14c0be081418edaf5219e959d2\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\f62d5ae38182fd8344906e798308a6eb7da599e0\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\6fca25306be7a4a9bb0900daf40d86f82683c416\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\1f20bf8cf2c0ce1a7035be4ed59566c25b28c24f\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\9cae2925b6e29243fdc279be106332b698658bc5\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\115565666ab612ac17bfc6c3cf9ec5381190e775\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\3a9990a832624ff80de23b70736923223e945a6c\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\6223ab0de90fb959d04c5b01278cf79211113517\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\dc80ef052c53a6d34e990588a189c87077c31c9d\output\AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/6488b4f8559bf594461d46ad508a7fd768122167/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/889935fdac1e8459a0bbe54a12bb5792734b5eb9/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/484ecaf570500c6b52d2f63bef895d8b45f1d059/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/fc37ac91a6de0095346b21bd9fdcde69631fc61e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/8445e21859c59c38be471f5b8a46ab7e7f278f71/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/4e36884ef69b3f6c4aafc481e9c8b934a96ff544/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/9bc9a2b5b1dcb9d26bb752954c668eb11d085eac/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/1c676cc7980cf2f2e45d32ba67c18a2ed01f26a8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/f4ee3d9a2d7a60448370735e96f46d1cd1aff582/output/AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\output\AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\jktd-wbr\.android\build-cache\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/AndroidManifest.xml:26:9-47

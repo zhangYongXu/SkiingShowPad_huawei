@@ -229,6 +229,7 @@
                     android:layout_width="400dp"
                     android:layout_height="200dp"
                     android:src="@mipmap/activity_detail_logo"
+                    android:scaleType="fitEnd"
                     android:layout_alignParentBottom="true"
                     android:layout_alignParentRight="true"/>
             </RelativeLayout>
@@ -236,7 +237,7 @@
         <RelativeLayout
             android:id="@+id/otherLayout"
             android:layout_width="match_parent"
-            android:layout_height="50dp"
+            android:layout_height="19dp"
             android:layout_above="@+id/bottomBackLayout"
             android:layout_marginBottom="10dp">
             <ImageView

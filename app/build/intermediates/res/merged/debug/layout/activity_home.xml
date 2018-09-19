@@ -25,7 +25,7 @@
                 android:orientation="vertical">
                 <RelativeLayout
                     android:layout_width="match_parent"
-                    android:layout_height="345dp">
+                    android:layout_height="600dp">
                     <TableLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -82,7 +82,7 @@
                 </RelativeLayout>
                 <RelativeLayout
                     android:layout_width="match_parent"
-                    android:layout_height="180dp"
+                    android:layout_height="277dp"
                     android:layout_marginTop="10dp">
 
                     <ImageView
@@ -98,7 +98,7 @@
                 </RelativeLayout>
                 <RelativeLayout
                     android:layout_width="match_parent"
-                    android:layout_height="60dp"
+                    android:layout_height="97dp"
                     android:layout_marginTop="10dp">
                     <ImageView
                         android:id="@+id/bImageView"
