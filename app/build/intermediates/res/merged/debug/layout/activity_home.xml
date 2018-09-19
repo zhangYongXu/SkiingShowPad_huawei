@@ -25,7 +25,7 @@
                 android:orientation="vertical">
                 <RelativeLayout
                     android:layout_width="match_parent"
-                    android:layout_height="600dp">
+                    android:layout_height="554dp">
                     <TableLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -38,7 +38,7 @@
                                 android:layout_marginRight="10dp"
                                 android:layout_marginTop="10dp"
                                 android:background="#00000000"
-                                android:scaleType="fitXY"
+                                android:scaleType="fitCenter"
                                 android:layout_weight="1"
                                 android:layout_height="match_parent"
                                 android:src="@drawable/home_buttom_item_tong_yong_shuang"
@@ -47,7 +47,7 @@
                                 android:layout_marginRight="10dp"
                                 android:layout_marginTop="10dp"
                                 android:background="#00000000"
-                                android:scaleType="fitXY"
+                                android:scaleType="fitCenter"
                                 android:layout_weight="1"
                                 android:layout_height="match_parent"
                                 android:src="@drawable/home_buttom_item_er_tong_shuang"
@@ -61,7 +61,7 @@
                                 android:layout_marginRight="10dp"
                                 android:layout_marginTop="10dp"
                                 android:background="#00000000"
-                                android:scaleType="fitXY"
+                                android:scaleType="fitCenter"
                                 android:layout_weight="1"
                                 android:layout_height="match_parent"
                                 android:src="@drawable/home_buttom_item_er_tong_dan"
@@ -70,7 +70,7 @@
                                 android:layout_marginRight="10dp"
                                 android:layout_marginTop="10dp"
                                 android:background="#00000000"
-                                android:scaleType="fitXY"
+                                android:scaleType="fitCenter"
                                 android:layout_weight="1"
                                 android:layout_height="match_parent"
                                 android:src="@drawable/home_buttom_item_tong_yong_dan"
@@ -82,7 +82,7 @@
                 </RelativeLayout>
                 <RelativeLayout
                     android:layout_width="match_parent"
-                    android:layout_height="277dp"
+                    android:layout_height="270dp"
                     android:layout_marginTop="10dp">
 
                     <ImageView
@@ -91,14 +91,14 @@
                         android:layout_height="match_parent"
                         android:layout_marginLeft="10dp"
                         android:layout_marginRight="10dp"
-                        android:scaleType="fitXY"
+                        android:scaleType="fitCenter"
                         android:src="@mipmap/activity_home_more_content"
                         android:onClick="moreContentImageViewClicked"/>
 
                 </RelativeLayout>
                 <RelativeLayout
                     android:layout_width="match_parent"
-                    android:layout_height="97dp"
+                    android:layout_height="95dp"
                     android:layout_marginTop="10dp">
                     <ImageView
                         android:id="@+id/bImageView"
@@ -106,7 +106,7 @@
                         android:layout_height="match_parent"
                         android:layout_marginRight="10dp"
                         android:layout_marginLeft="10dp"
-                        android:scaleType="fitXY"
+                        android:scaleType="fitCenter"
                         android:src="@mipmap/activity_home_hua_xue_zhi_shi_da_jiang_tang"/>
 
                 </RelativeLayout>

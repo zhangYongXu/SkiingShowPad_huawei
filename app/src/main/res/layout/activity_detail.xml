@@ -14,7 +14,7 @@
         <RelativeLayout
             android:id="@+id/videoContainer"
             android:layout_width="match_parent"
-            android:layout_height="450dp">
+            android:layout_height="337.5dp">
 
             <cn.geeksworld.skiingshow.views.SimpleVideoView
                 android:id="@+id/videoView"
@@ -26,7 +26,7 @@
     <RelativeLayout
         android:id="@+id/listLayout"
         android:layout_width="match_parent"
-        android:layout_height="220dp">
+        android:layout_height="160dp">
         <ImageView
             android:id="@+id/detailTypeBgImageView"
             android:layout_width="match_parent"
@@ -36,7 +36,7 @@
         <LinearLayout
             android:id="@+id/typeButtonLayout"
             android:layout_width="match_parent"
-            android:layout_height="45dp"
+            android:layout_height="40dp"
             android:orientation="horizontal"
             android:background="@color/white"
             android:paddingBottom="4dp">
@@ -64,7 +64,7 @@
         <LinearLayout
             android:id="@+id/typeButtonTextLayout"
             android:layout_width="match_parent"
-            android:layout_height="45dp"
+            android:layout_height="40dp"
             android:orientation="horizontal"
             android:paddingBottom="4dp">
             <RelativeLayout
@@ -79,8 +79,8 @@
                     android:text="动作教学"
                     android:textAlignment="center"
                     android:textColor="@color/white"
-                    android:textSize="@dimen/textSize30"
-                    android:paddingBottom="2dp"/>
+                    android:textSize="@dimen/textSize25"
+                    android:paddingBottom="5dp"/>
             </RelativeLayout>
             <RelativeLayout
                 android:layout_width="0dp"
@@ -94,8 +94,8 @@
                     android:text="错误动作"
                     android:textAlignment="center"
                     android:textColor="@color/white"
-                    android:textSize="@dimen/textSize30"
-                    android:paddingBottom="2dp"/>
+                    android:textSize="@dimen/textSize25"
+                    android:paddingBottom="5dp"/>
             </RelativeLayout>
         </LinearLayout>
 
@@ -106,8 +106,8 @@
             android:layout_below="@+id/typeButtonLayout">
             <ImageView
                 android:id="@+id/mainVideoImageView"
-                android:layout_width="250dp"
-                android:layout_height="140.625dp"
+                android:layout_width="180dp"
+                android:layout_height="101.25dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp"
@@ -136,11 +136,11 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="130dp">
+            android:layout_marginBottom="100dp">
             <LinearLayout
                 android:id="@+id/infoButtonTextLayout"
                 android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_height="45dp"
                 android:orientation="horizontal"
                 android:background="@color/white">
                 <RelativeLayout
@@ -161,7 +161,7 @@
                         android:text="课程简介"
                         android:textAlignment="center"
                         android:textColor="@color/white"
-                        android:textSize="@dimen/textSize30" />
+                        android:textSize="@dimen/textSize25" />
                 </RelativeLayout>
                 <RelativeLayout
                     android:layout_width="0dp"
@@ -181,7 +181,7 @@
                         android:text="练习动作要领"
                         android:textAlignment="center"
                         android:textColor="@color/white"
-                        android:textSize="@dimen/textSize30" />
+                        android:textSize="@dimen/textSize25" />
                 </RelativeLayout>
             </LinearLayout>
             <ScrollView
@@ -198,7 +198,7 @@
                     android:paddingLeft="30dp"
                     android:paddingTop="30dp"
                     android:paddingBottom="30dp"
-                    android:textSize="@dimen/textSize25"
+                    android:textSize="@dimen/textSize20"
                     android:lineSpacingExtra="10dp" />
             </ScrollView>
             <ScrollView
@@ -216,7 +216,7 @@
                     android:paddingLeft="30dp"
                     android:paddingTop="30dp"
                     android:paddingBottom="30dp"
-                    android:textSize="@dimen/textSize25"
+                    android:textSize="@dimen/textSize20"
                     android:lineSpacingExtra="10dp" />
             </ScrollView>
 
@@ -237,7 +237,7 @@
         <RelativeLayout
             android:id="@+id/otherLayout"
             android:layout_width="match_parent"
-            android:layout_height="19dp"
+            android:layout_height="30dp"
             android:layout_above="@+id/bottomBackLayout"
             android:layout_marginBottom="10dp">
             <ImageView
@@ -250,7 +250,7 @@
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:scaleType="fitCenter"
-                android:padding="3dp"
+                android:padding="8dp"
                 android:src="@mipmap/detail_arrow_up"/>
         </RelativeLayout>
         <RelativeLayout
