@@ -3657,6 +3657,8 @@ containing a value of this type.
         public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f090162;
         public static final int Widget_AppCompat_Toolbar=0x7f090163;
         public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f090164;
+        /**  Customize your theme here. 
+         */
         public static final int Widget_MyGiftView=0x7f090165;
         public static final int loading_dialog=0x7f090166;
     }

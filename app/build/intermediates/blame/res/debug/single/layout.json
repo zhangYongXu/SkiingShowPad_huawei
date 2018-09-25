@@ -1,35 +1,15 @@
 [
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2bde2afeda5934a9b1d5a41d2965f00cfc56a54\\output\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/layout_top_navigation.xml",
         "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/layout_top_navigation.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/activity_list.xml",
@@ -40,36 +20,16 @@
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/activity_more_video.xml",
         "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/activity_more_video.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_video_play_t.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\activity_more_video_play_t.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2bde2afeda5934a9b1d5a41d2965f00cfc56a54\\output\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/detail_list.xml",
+        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/detail_list.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
@@ -80,36 +40,16 @@
         "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/list_more_video_item.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_video_view.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\simple_video_view.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_top_navigation.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\layout_top_navigation.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -120,156 +60,64 @@
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\activity_home.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_more_video_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\list_more_video_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
         "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/activity_home.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\activity_list.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_video.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\activity_more_video.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2bde2afeda5934a9b1d5a41d2965f00cfc56a54\\output\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_video_play.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\activity_more_video_play.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\list_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_more_video_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\list_more_video_item.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_screen_simple.xml"
     },
     {
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\517c340ff264016210fcc6afc3afe313d9094e8f\\output\\res\\layout\\tooltip.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail2.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\activity_detail2.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/simple_video_view.xml",
@@ -284,322 +132,6 @@
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/notification_action.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2bde2afeda5934a9b1d5a41d2965f00cfc56a54\\output\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\activity_home.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_video.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\activity_more_video.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_video_play_t.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\activity_more_video_play_t.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2bde2afeda5934a9b1d5a41d2965f00cfc56a54\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\activity_detail.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_video2_view.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\simple_video2_view.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/detail_list.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/detail_list.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_video_view.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\simple_video_view.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\activity_detail.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more_video_play.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\activity_more_video_play.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\list_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_list.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\detail_list.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_video2_view.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\simple_video2_view.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2bde2afeda5934a9b1d5a41d2965f00cfc56a54\\output\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_top_navigation.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\layout_top_navigation.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\activity_list.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail2.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\layout\\activity_detail2.xml"
-    },
-    {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/activity_more_video_play.xml",
         "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/activity_more_video_play.xml"
     },
@@ -612,8 +144,16 @@
         "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/activity_detail2.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/list_item.xml",
@@ -624,10 +164,6 @@
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_alert_dialog_title_material.xml"
     },
@@ -636,24 +172,36 @@
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_search_view.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/simple_video2_view.xml",
         "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/layout/simple_video2_view.xml"
     },
     {
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_list.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/E:\\ZYX\\WORK\\huaxue\\code\\pad\\SkiingShowPad\\app\\src\\main\\res\\layout\\detail_list.xml"
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/layout/activity_detail.xml",

@@ -1,7 +1,0 @@
-#Tue Sep 25 12:23:21 CST 2018
-base.0=/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e92d9dc8a3c8dd6ff1f9869b2cf8a29266a08137
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a88465a6ddf344622a18dcfb1f77e4b5b4e22dba/classes.dex
-base.1=/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a88465a6ddf344622a18dcfb1f77e4b5b4e22dba
-file.0=/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e92d9dc8a3c8dd6ff1f9869b2cf8a29266a08137/classes.dex
