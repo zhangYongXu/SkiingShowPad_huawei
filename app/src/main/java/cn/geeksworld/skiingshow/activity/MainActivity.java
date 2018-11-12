@@ -1,10 +1,12 @@
 package cn.geeksworld.skiingshow.activity;
 
 import android.Manifest;
+import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
+import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.net.Uri;
 import android.support.annotation.Nullable;
@@ -13,6 +15,8 @@ import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
+import android.view.SurfaceHolder;
+import android.view.SurfaceView;
 import android.view.View;
 import android.widget.GridView;
 import android.widget.Toast;
@@ -44,7 +48,12 @@ public class MainActivity extends AppCompatActivity {
     private int pageNumber = 1;
     private RequestManager glide;
 
+    private MainActivity activity;
+
     private VideoView videoView;
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         AppModelControlManager.hiddenSystemHandleView(this);
 
         setContentView(R.layout.activity_main);
-
+        activity = this;
         glide = Glide.with(this);
         initView();
 
@@ -71,6 +80,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     private void initView() {
+        activity = this;
 
         viewPagerHeader =  (MyRollPagerView) findViewById(R.id.pageViewPagerHeader);
         viewPagerHeader.getViewPager().setOffscreenPageLimit(2);
@@ -79,6 +89,9 @@ public class MainActivity extends AppCompatActivity {
         viewPagerFooter.getViewPager().setOffscreenPageLimit(2);
 
         videoView = (VideoView)findViewById(R.id.videoView);
+
+
+
 
         playVideo();
         loadBanners();
@@ -122,6 +135,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private  void  playVideo(){
+
         String uri="android.resource://"+getPackageName()+"/"+R.raw.home_logo;
         videoView.setVideoURI(Uri.parse(uri));
         videoView.requestFocus();

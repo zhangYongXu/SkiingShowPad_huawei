@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.percent.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="cn.geeksworld.skiingshow.activity.MainActivity">
+    tools:context=".activity.MainActivity">
 
     <RelativeLayout
+        android:id="@+id/topLayout"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="8dp">
+        app:layout_heightPercent="25%"
+        app:layout_widthPercent="100%">
 
         <cn.geeksworld.skiingshow.views.MyRollPagerView
             android:id="@+id/pageViewPagerHeader"
@@ -24,45 +22,26 @@
             app:rollviewpager_play_delay="3000" />
     </RelativeLayout>
     <RelativeLayout
+        android:id="@+id/centerLayout"
+        android:layout_below="@id/topLayout"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="2"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="8dp">
+        android:layout_height="wrap_content">
 
-        <!--<ImageView-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="match_parent"-->
-            <!--android:src="@mipmap/hom_page_bg_new"-->
-            <!--android:scaleType="fitXY" />-->
-        <!--<cn.geeksworld.skiingshow.views.MyGiftView-->
-            <!--android:layout_centerInParent="true"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="match_parent"-->
-            <!--app:gif="@mipmap/home_logo"-->
-            <!--android:background="#00000000"/>-->
-        <VideoView
+        <cn.geeksworld.skiingshow.views.MyVideoView
             android:id="@+id/videoView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentRight="true"
             android:layout_alignParentTop="true"
-            android:layout_alignParentBottom="true"/>
-        <Button
-            android:id="@+id/homeButton"
-            android:background="#00000000"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
             android:onClick="homeButtonClicked"/>
 
     </RelativeLayout>
     <RelativeLayout
+        android:id="@+id/bottomLayout"
+        android:layout_alignParentBottom="true"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="8dp">
+        app:layout_heightPercent="25%"
+        app:layout_widthPercent="100%">
 
         <cn.geeksworld.skiingshow.views.MyRollPagerView
             android:id="@+id/pageViewPagerFooter"
@@ -75,4 +54,4 @@
     </RelativeLayout>
 
 
-</LinearLayout>
+</android.support.percent.PercentRelativeLayout>

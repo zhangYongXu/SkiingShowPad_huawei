@@ -1,94 +1,94 @@
 [
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/color_radio_page3_classify.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/color/color_radio_page3_classify.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/switch_thumb_material_light.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_btn_colored_text_material.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_tint_default.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_tint_spinner.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\color_radio2.xml",
+        "source": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\color\\color_radio2.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\color_radio_page3_classify.xml",
+        "source": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\color\\color_radio_page3_classify.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/color_radio1.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/color/color_radio1.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\color_radio1.xml",
+        "source": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\src\\main\\res\\color\\color_radio1.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_search_url_text.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_tint_switch_thumb.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_tint_switch_track.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_tint_edittext.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/color_radio2.xml",
-        "source": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/src/main/res/color/color_radio2.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/GeekWorld/Desktop/WORK/VR自生成/code/android/SkiingShowPad_huawei/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/GeekWorld/.android/build-cache/7296c8ef082017e0d8d7d34008201dd9cd5b91c6/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "E:\\ZYX\\WORK\\huaxue\\code\\pad\\HUAWEI\\SkiingShowPad_huawei\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\jktd-wbr\\.android\\build-cache\\c2d1c24e65e51d1c72c182b95c08c76af0310c5d\\output\\res\\color\\abc_tint_spinner.xml"
     }
 ]

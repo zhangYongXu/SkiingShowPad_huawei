@@ -8,15 +8,15 @@ package android.support.v7.recyclerview;
 
 public final class R {
     public static final class attr {
-        public static final int fastScrollEnabled = 0x7f0100f1;
-        public static final int fastScrollHorizontalThumbDrawable = 0x7f0100f4;
-        public static final int fastScrollHorizontalTrackDrawable = 0x7f0100f5;
-        public static final int fastScrollVerticalThumbDrawable = 0x7f0100f2;
-        public static final int fastScrollVerticalTrackDrawable = 0x7f0100f3;
-        public static final int layoutManager = 0x7f0100ed;
-        public static final int reverseLayout = 0x7f0100ef;
-        public static final int spanCount = 0x7f0100ee;
-        public static final int stackFromEnd = 0x7f0100f0;
+        public static final int fastScrollEnabled = 0x7f0100fb;
+        public static final int fastScrollHorizontalThumbDrawable = 0x7f0100fe;
+        public static final int fastScrollHorizontalTrackDrawable = 0x7f0100ff;
+        public static final int fastScrollVerticalThumbDrawable = 0x7f0100fc;
+        public static final int fastScrollVerticalTrackDrawable = 0x7f0100fd;
+        public static final int layoutManager = 0x7f0100f7;
+        public static final int reverseLayout = 0x7f0100f9;
+        public static final int spanCount = 0x7f0100f8;
+        public static final int stackFromEnd = 0x7f0100fa;
     }
     public static final class dimen {
         public static final int fastscroll_default_thickness = 0x7f080054;
@@ -30,7 +30,7 @@ public final class R {
         public static final int item_touch_helper_previous_elevation = 0x7f0c0005;
     }
     public static final class styleable {
-        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f0100ed, 0x7f0100ee, 0x7f0100ef, 0x7f0100f0, 0x7f0100f1, 0x7f0100f2, 0x7f0100f3, 0x7f0100f4, 0x7f0100f5 };
+        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f0100f7, 0x7f0100f8, 0x7f0100f9, 0x7f0100fa, 0x7f0100fb, 0x7f0100fc, 0x7f0100fd, 0x7f0100fe, 0x7f0100ff };
         public static final int RecyclerView_android_descendantFocusability = 1;
         public static final int RecyclerView_android_orientation = 0;
         public static final int RecyclerView_fastScrollEnabled = 6;
